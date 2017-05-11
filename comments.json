@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1464988635157,
+        "author": "ben",
+        "text": "*abc*"
+    },
+    {
+        "id": 1464988636500,
+        "author": "ben",
+        "text": "*abc*"
+    },
+    {
+        "id": 1464988717637,
+        "author": "evil",
+        "text": "\u003ca href=\"javascript:alert(1)\"\u003ealert(1)\u003c/a\u003e"
+    },
+    {
+        "id": 1494519577097,
+        "author": "ma",
+        "text": "hello all"
+    },
+    {
+        "id": 1494519621511,
+        "author": "abc",
+        "text": "hello too"
+    }
+]
